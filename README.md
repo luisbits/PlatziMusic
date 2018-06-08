@@ -2,6 +2,8 @@
 
 > Proyecto del curso de Intrduccion a Vue.js con Platzi
 
+### [DEMO](https://luisbits.github.io/PlatziMusic/)
+
 ## Build Setup
 
 ``` bash
